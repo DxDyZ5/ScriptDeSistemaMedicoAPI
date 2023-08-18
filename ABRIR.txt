@@ -1,0 +1,17 @@
+Importar base de datos pasos: 
+
+use el documento llamado: BackUpDeDatosSistemaMedicoAPIA.bacpac
+
+Vaya a sql server
+
+clic derecho la carpeta llamada 'DATABASES'
+
+Clic en opcion llamada: "Import Data tier Application"
+
+Seguir las instrusciones 
+
+buscar ela archivo en el documento
+
+siga las instrucciones
+
+Finalizado, revise la base de datos.
